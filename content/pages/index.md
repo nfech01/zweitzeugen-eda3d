@@ -94,5 +94,6 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: images/eleanor-carr.jpg
 layout: advanced
 ---
